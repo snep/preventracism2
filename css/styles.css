@@ -1,0 +1,48 @@
+body {
+    background-color: #824627;
+}
+
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-color:#f2e2a4;
+    border-width: 5px;
+    height: 0px;
+    width: 10%;
+}
+
+h1 {
+    color:#f2e2a4; 
+}
+
+h3 {
+    color: #f2e2a4;
+}
+
+a {
+    color: hotpink;
+  }
+  
+img {
+    height:300px;
+    border-style: none;
+    border: dotted;
+    border-color: #824627;
+    border-width: 10px;
+    background-color: #f2e2a4;
+}
+table {
+    Color: #f2e2a4;
+}
+
+li {
+    color: #f2e2a4;
+}
+
+p {
+    color: #f2e2a4;
+}
+
+h2 {
+    color: #f2e2a4;
+}
